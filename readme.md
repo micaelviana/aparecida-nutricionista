@@ -6,6 +6,8 @@
 - Remover pacientes com dois cliques
 - Adicionar mais pacientes a partir de um HTTP Request
 
+![Página](./assets/funcionamento.gif)
+
 ## Conceitos aplicados
 - Request usando Ajax
 - Uso de pseudo-seletores
